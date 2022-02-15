@@ -1,0 +1,4 @@
+- Hi, I’m Jacob
+- I’m interested in game design/deveopment, extended reality, cyber security, artifical intelligence, and most things computer based/\.
+- I’m currently learning virtual reality development with Unity 3D
+- You can reach me by emailing me at jacobagowan@gmail.com
